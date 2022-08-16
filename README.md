@@ -1,6 +1,8 @@
 # Entropy
 Made for the GMTK game Jam
 
+[![Download on itch.io](./itch_badge.svg)](https://yuvashankar.itch.io/entropy)
+
 ## Accomplishments
 
 - Designed and completed a twin-stick shooter from scratch in under 48 hours using Unreal Engine 4 Blueprints
